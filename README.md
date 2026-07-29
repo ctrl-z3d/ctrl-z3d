@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ctrl-z3d&fontSize=70&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=%3E%20undo_history_is_a_lie&descAlignY=55&descSize=18&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0e27,50:1a1035,100:2d1b4e&amp;height=220&amp;section=header&amp;text=ctrl-z3d&amp;fontSize=70&amp;fontColor=00f0ff&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Electronics%20and%20AI%20Hardware&amp;descAlignY=55&amp;descSize=18&amp;descColor=b967ff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=root%40ctrl-z3d%3A~%24+whoami;embedded+systems+%2B+interactive+viz;compiling+dreams+in+C%2B%2B...;%5BOK%5D+build+succeeded" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2500&amp;pause=800&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=root%40ctrl-z3d%3A~%24+whoami;chasing+electrons+from+transistor+to+tensor;embedded+systems+%2B+AI+silicon+%2B+viz;%5BOK%5D+build+succeeded" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,9 +13,8 @@
 ```yaml
 > profile.yaml
 identity:     Ctrl + Z
-focus:        embedded systems, real-time visualization
-philosophy:   "everything's a checkpoint until it isn't"
-status:       [ACTIVE] currently debugging reality
+focus:        AI accelerators, semiconductors, embedded systems
+interests:    [chip architecture, edge AI, electromagnetics, low-level firmware]
 ```
 
 ## `~/builds`
@@ -33,7 +32,7 @@ Snake, built from the metal up on an **Arduino Nano** — OLED display, joystick
 <td width="50%" valign="top">
 
 ### 🌐 Coordinate Surfaces Lab
-Real-time interactive visualization for **EEE241: Electromagnetic Waves & Fields** — turns abstract vector math into something you can actually see and rotate.
+Real-time interactive visualization for **EEE241: Electromagnetic Waves &amp; Fields** — turns abstract vector math into something you can actually see and rotate. The same field theory that underlies signal integrity in chip design.
 
 `JavaScript` `HTML5` `WebGL/Canvas` `EM Theory`
 
@@ -45,22 +44,25 @@ Real-time interactive visualization for **EEE241: Electromagnetic Waves & Fields
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=39FF14)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14)
+![C++](https://img.shields.io/badge/C++-0a0e27?style=for-the-badge&logo=cplusplus&logoColor=00F0FF)
+![Arduino](https://img.shields.io/badge/Arduino-0a0e27?style=for-the-badge&logo=arduino&logoColor=00F0FF)
+![Python](https://img.shields.io/badge/Python-0a0e27?style=for-the-badge&logo=python&logoColor=B967FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0e27?style=for-the-badge&logo=pytorch&logoColor=B967FF)
+![Verilog](https://img.shields.io/badge/Verilog-0a0e27?style=for-the-badge&logo=verilog&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0e27?style=for-the-badge&logo=javascript&logoColor=B967FF)
+![HTML5](https://img.shields.io/badge/HTML5-0a0e27?style=for-the-badge&logo=html5&logoColor=00F0FF)
 
 </div>
 
 ## `~/stats`
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ctrl-z3d&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9"/>
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-z3d&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ctrl-z3d&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0a0e27&amp;title_color=00F0FF&amp;icon_color=B967FF&amp;text_color=c9d1d9"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-z3d&amp;layout=compact&amp;hide_border=true&amp;bg_color=0a0e27&amp;title_color=00F0FF&amp;text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-z3d&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-z3d&amp;hide_border=true&amp;background=0a0e27&amp;ring=00F0FF&amp;fire=B967FF&amp;currStreakLabel=00F0FF"/>
 </div>
 
 ## `~/activity`
@@ -75,6 +77,6 @@ Real-time interactive visualization for **EEE241: Electromagnetic Waves & Fields
 
 `> exit 0`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2d1b4e,50:1a1035,100:0a0e27&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
